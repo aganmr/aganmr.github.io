@@ -46,8 +46,7 @@ to us or any third party.
 The free tier displays ads (banners and rewarded videos) provided by Google
 AdMob. Google may collect and use device and ad-related information (such as
 the Android ID) for ad personalisation as described in [Google's Ads
-policies](https://policies.google.com/technologies/ads). Upgrading to Pro
-(Remove Ads) disables all advertising.
+policies](https://policies.google.com/technologies/ads). Purchasing Pro or Remove Ads disables all advertising.
 
 ### RevenueCat (where "In-app purchases" is yes)
 
@@ -70,7 +69,8 @@ Because all data lives on your device:
 
 - **Access:** your data is visible in the app at all times.
 - **Export:** where an app offers it, you can export your data at any time
-  (Fuel & Charge Tracker: PDF or CSV, a Pro feature).
+  (Fuel & Charge Tracker: PDF or CSV - a Pro feature, and available once
+  per week to free users who watch a short video).
 - **Deletion:** delete data in the app, or uninstall the app to remove all
   of it.
 
