@@ -50,12 +50,14 @@ policies](https://policies.google.com/technologies/ads). Purchasing Pro or Remov
 
 ### RevenueCat (where "In-app purchases" is yes)
 
-In-app purchases (Pro, Remove Ads) are processed through RevenueCat and your
-device's app store (Google Play). RevenueCat and Google process the payment
-and subscription information needed to complete and manage your purchase. We
-do not receive your payment details. You can manage or cancel subscriptions in
-your Google Play account. See [RevenueCat's privacy
-policy](https://www.revenuecat.com/privacy) for details.
+The apps offer one-time purchases (for Fuel & Charge Tracker: Pro
+Lifetime and Remove Ads) processed through RevenueCat and your
+device's app store (Google Play). RevenueCat and Google process the
+payment information needed to complete your purchase. We do not
+receive your payment details. Because these are one-time purchases
+(there are no subscriptions), there is nothing to cancel; refunds
+are handled by Google Play under its refund policy. See [RevenueCat's
+privacy policy](https://www.revenuecat.com/privacy) for details.
 
 ## Children's privacy
 
