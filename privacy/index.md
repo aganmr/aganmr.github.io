@@ -12,6 +12,7 @@ practices are a subset of what is described here.
 | App | Package | Ads | In-app purchases |
 | --- | --- | --- | --- |
 | Fuel & Charge Tracker | com.aganmr.fuelchargetracker | Yes (free tier) | Yes |
+| Spoolish | com.aganmr.spoolish | No | No |
 
 ## Short version
 
@@ -21,16 +22,20 @@ your data. Deleting an app deletes its data.
 
 ## Data we store
 
-Each app stores the information you enter, on your device. For Fuel & Charge
-Tracker this includes:
+Each app stores the information you enter, on your device:
 
-- Vehicle details (name, type, odometer)
-- Fuel, charge and expense logs (odometer, volume, cost, date)
-- Maintenance items and schedule
-- App settings (unit system, currency, default prices, plan status)
+- **Fuel & Charge Tracker:** vehicle details (name, type, odometer); fuel,
+  charge and expense logs (odometer, volume, cost, date); maintenance items
+  and schedule; app settings (unit system, currency, default prices, plan
+  status)
+- **Spoolish:** print records (name, printer, filaments, time, computed
+  cost); filament spools; printer profiles; app settings (region,
+  electricity rate, machine wear)
 
 This data is stored in a local database on your phone. It is never transmitted
-to us or any third party.
+to us or any third party. In live mode, Spoolish also reads print progress
+from your own printer over your local network — between your devices only,
+never to us.
 
 ## Data we do not collect
 
